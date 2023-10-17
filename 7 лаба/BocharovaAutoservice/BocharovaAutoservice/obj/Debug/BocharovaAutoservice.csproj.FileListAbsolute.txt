@@ -1,0 +1,182 @@
+D:\Учеба\3 курс\Разработка пограммных модулей (Тимашева)\лабы\3 лаба\BocharovaAutoservice\BocharovaAutoservice\bin\Debug\BocharovaAutoservice.exe.config
+D:\Учеба\3 курс\Разработка пограммных модулей (Тимашева)\лабы\3 лаба\BocharovaAutoservice\BocharovaAutoservice\bin\Debug\BocharovaAutoservice.exe
+D:\Учеба\3 курс\Разработка пограммных модулей (Тимашева)\лабы\3 лаба\BocharovaAutoservice\BocharovaAutoservice\bin\Debug\BocharovaAutoservice.pdb
+D:\Учеба\3 курс\Разработка пограммных модулей (Тимашева)\лабы\3 лаба\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\BocharovaAutoservice.csproj.AssemblyReference.cache
+D:\Учеба\3 курс\Разработка пограммных модулей (Тимашева)\лабы\3 лаба\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\MainWindow.g.cs
+D:\Учеба\3 курс\Разработка пограммных модулей (Тимашева)\лабы\3 лаба\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\App.g.cs
+D:\Учеба\3 курс\Разработка пограммных модулей (Тимашева)\лабы\3 лаба\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\BocharovaAutoservice_MarkupCompile.cache
+D:\Учеба\3 курс\Разработка пограммных модулей (Тимашева)\лабы\3 лаба\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\BocharovaAutoservice_MarkupCompile.lref
+D:\Учеба\3 курс\Разработка пограммных модулей (Тимашева)\лабы\3 лаба\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\MainWindow.baml
+D:\Учеба\3 курс\Разработка пограммных модулей (Тимашева)\лабы\3 лаба\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\BocharovaAutoservice.g.resources
+D:\Учеба\3 курс\Разработка пограммных модулей (Тимашева)\лабы\3 лаба\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\BocharovaAutoservice.Properties.Resources.resources
+D:\Учеба\3 курс\Разработка пограммных модулей (Тимашева)\лабы\3 лаба\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\BocharovaAutoservice.csproj.GenerateResource.cache
+D:\Учеба\3 курс\Разработка пограммных модулей (Тимашева)\лабы\3 лаба\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\BocharovaAutoservice.csproj.CoreCompileInputs.cache
+D:\Учеба\3 курс\Разработка пограммных модулей (Тимашева)\лабы\3 лаба\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\BocharovaAutoservice.exe
+D:\Учеба\3 курс\Разработка пограммных модулей (Тимашева)\лабы\3 лаба\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\BocharovaAutoservice.pdb
+D:\Учеба\3 курс\Разработка пограммных модулей (Тимашева)\лабы\3 лаба\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\ServicePage.g.cs
+D:\Учеба\3 курс\Разработка пограммных модулей (Тимашева)\лабы\3 лаба\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\AddEditPage.g.cs
+D:\Учеба\3 курс\Разработка пограммных модулей (Тимашева)\лабы\3 лаба\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\AddEditPage.baml
+D:\Учеба\3 курс\Разработка пограммных модулей (Тимашева)\лабы\3 лаба\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\ServicePage.baml
+D:\Учеба\3 курс\Разработка пограммных модулей (Тимашева)\лабы\3 лаба\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\App.baml
+D:\учеба\разработка ПМ\BocharovaAutoservice\BocharovaAutoservice\bin\Debug\BocharovaAutoservice.exe.config
+D:\учеба\разработка ПМ\BocharovaAutoservice\BocharovaAutoservice\bin\Debug\BocharovaAutoservice.exe
+D:\учеба\разработка ПМ\BocharovaAutoservice\BocharovaAutoservice\bin\Debug\BocharovaAutoservice.pdb
+D:\учеба\разработка ПМ\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\BocharovaAutoservice.csproj.AssemblyReference.cache
+D:\учеба\разработка ПМ\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\AddEditPage.g.cs
+D:\учеба\разработка ПМ\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\MainWindow.g.cs
+D:\учеба\разработка ПМ\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\ServicePage.g.cs
+D:\учеба\разработка ПМ\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\App.g.cs
+D:\учеба\разработка ПМ\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\BocharovaAutoservice_MarkupCompile.cache
+D:\учеба\разработка ПМ\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\BocharovaAutoservice_MarkupCompile.lref
+D:\учеба\разработка ПМ\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\App.baml
+D:\учеба\разработка ПМ\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\AddEditPage.baml
+D:\учеба\разработка ПМ\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\MainWindow.baml
+D:\учеба\разработка ПМ\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\ServicePage.baml
+D:\учеба\разработка ПМ\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\BocharovaAutoservice.g.resources
+D:\учеба\разработка ПМ\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\BocharovaAutoservice.Properties.Resources.resources
+D:\учеба\разработка ПМ\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\BocharovaAutoservice.csproj.GenerateResource.cache
+D:\учеба\разработка ПМ\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\BocharovaAutoservice.csproj.CoreCompileInputs.cache
+D:\учеба\разработка ПМ\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\BocharovaAutoservice.exe
+D:\учеба\разработка ПМ\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\BocharovaAutoservice.pdb
+D:\учеба\разработка ПМ\BocharovaAutoservice\BocharovaAutoservice\bin\Debug\EntityFramework.dll
+D:\учеба\разработка ПМ\BocharovaAutoservice\BocharovaAutoservice\bin\Debug\EntityFramework.SqlServer.dll
+D:\учеба\разработка ПМ\BocharovaAutoservice\BocharovaAutoservice\bin\Debug\EntityFramework.xml
+D:\учеба\разработка ПМ\BocharovaAutoservice\BocharovaAutoservice\bin\Debug\EntityFramework.SqlServer.xml
+D:\учеба\разработка ПМ\BocharovaAutoservice\BocharovaAutoservice\bin\Debug\ru\EntityFramework.resources.dll
+D:\учеба\разработка ПМ\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\BocharovaAutoservice_Content.g.cs
+D:\учеба\разработка ПМ\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\BocharovaAutoservice.csproj.CopyComplete
+D:\учеба\разработка ПМ\5 лаба\4 лаба\BocharovaAutoservice\BocharovaAutoservice\bin\Debug\BocharovaAutoservice.exe.config
+D:\учеба\разработка ПМ\5 лаба\4 лаба\BocharovaAutoservice\BocharovaAutoservice\bin\Debug\BocharovaAutoservice.exe
+D:\учеба\разработка ПМ\5 лаба\4 лаба\BocharovaAutoservice\BocharovaAutoservice\bin\Debug\BocharovaAutoservice.pdb
+D:\учеба\разработка ПМ\5 лаба\4 лаба\BocharovaAutoservice\BocharovaAutoservice\bin\Debug\EntityFramework.dll
+D:\учеба\разработка ПМ\5 лаба\4 лаба\BocharovaAutoservice\BocharovaAutoservice\bin\Debug\EntityFramework.SqlServer.dll
+D:\учеба\разработка ПМ\5 лаба\4 лаба\BocharovaAutoservice\BocharovaAutoservice\bin\Debug\EntityFramework.xml
+D:\учеба\разработка ПМ\5 лаба\4 лаба\BocharovaAutoservice\BocharovaAutoservice\bin\Debug\EntityFramework.SqlServer.xml
+D:\учеба\разработка ПМ\5 лаба\4 лаба\BocharovaAutoservice\BocharovaAutoservice\bin\Debug\ru\EntityFramework.resources.dll
+D:\учеба\разработка ПМ\5 лаба\4 лаба\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\BocharovaAutoservice.csproj.AssemblyReference.cache
+D:\учеба\разработка ПМ\5 лаба\4 лаба\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\AddEditPage.g.cs
+D:\учеба\разработка ПМ\5 лаба\4 лаба\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\MainWindow.g.cs
+D:\учеба\разработка ПМ\5 лаба\4 лаба\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\ServicePage.g.cs
+D:\учеба\разработка ПМ\5 лаба\4 лаба\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\App.g.cs
+D:\учеба\разработка ПМ\5 лаба\4 лаба\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\BocharovaAutoservice_Content.g.cs
+D:\учеба\разработка ПМ\5 лаба\4 лаба\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\BocharovaAutoservice_MarkupCompile.cache
+D:\учеба\разработка ПМ\5 лаба\4 лаба\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\BocharovaAutoservice_MarkupCompile.lref
+D:\учеба\разработка ПМ\5 лаба\4 лаба\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\App.baml
+D:\учеба\разработка ПМ\5 лаба\4 лаба\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\AddEditPage.baml
+D:\учеба\разработка ПМ\5 лаба\4 лаба\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\MainWindow.baml
+D:\учеба\разработка ПМ\5 лаба\4 лаба\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\ServicePage.baml
+D:\учеба\разработка ПМ\5 лаба\4 лаба\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\BocharovaAutoservice.g.resources
+D:\учеба\разработка ПМ\5 лаба\4 лаба\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\BocharovaAutoservice.Properties.Resources.resources
+D:\учеба\разработка ПМ\5 лаба\4 лаба\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\BocharovaAutoservice.csproj.GenerateResource.cache
+D:\учеба\разработка ПМ\5 лаба\4 лаба\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\BocharovaAutoservice.csproj.CoreCompileInputs.cache
+D:\учеба\разработка ПМ\5 лаба\4 лаба\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\BocharovaAutoservice.csproj.CopyComplete
+D:\учеба\разработка ПМ\5 лаба\4 лаба\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\BocharovaAutoservice.exe
+D:\учеба\разработка ПМ\5 лаба\4 лаба\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\BocharovaAutoservice.pdb
+D:\учеба\разработка ПМ\5 лаба\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\BocharovaAutoservice.csproj.AssemblyReference.cache
+D:\учеба\разработка ПМ\5 лаба\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\AddEditPage.g.cs
+D:\учеба\разработка ПМ\5 лаба\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\MainWindow.g.cs
+D:\учеба\разработка ПМ\5 лаба\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\ServicePage.g.cs
+D:\учеба\разработка ПМ\5 лаба\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\App.g.cs
+D:\учеба\разработка ПМ\5 лаба\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\BocharovaAutoservice_Content.g.cs
+D:\учеба\разработка ПМ\5 лаба\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\BocharovaAutoservice_MarkupCompile.cache
+D:\учеба\разработка ПМ\5 лаба\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\BocharovaAutoservice_MarkupCompile.lref
+D:\учеба\разработка ПМ\5 лаба\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\BocharovaAutoservice.exe
+D:\учеба\разработка ПМ\5 лаба\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\BocharovaAutoservice.pdb
+D:\учеба\разработка ПМ\5 лаба\BocharovaAutoservice\BocharovaAutoservice\bin\Debug\BocharovaAutoservice.exe.config
+D:\учеба\разработка ПМ\5 лаба\BocharovaAutoservice\BocharovaAutoservice\bin\Debug\BocharovaAutoservice.exe
+D:\учеба\разработка ПМ\5 лаба\BocharovaAutoservice\BocharovaAutoservice\bin\Debug\BocharovaAutoservice.pdb
+D:\учеба\разработка ПМ\5 лаба\BocharovaAutoservice\BocharovaAutoservice\bin\Debug\EntityFramework.dll
+D:\учеба\разработка ПМ\5 лаба\BocharovaAutoservice\BocharovaAutoservice\bin\Debug\EntityFramework.SqlServer.dll
+D:\учеба\разработка ПМ\5 лаба\BocharovaAutoservice\BocharovaAutoservice\bin\Debug\EntityFramework.xml
+D:\учеба\разработка ПМ\5 лаба\BocharovaAutoservice\BocharovaAutoservice\bin\Debug\EntityFramework.SqlServer.xml
+D:\учеба\разработка ПМ\5 лаба\BocharovaAutoservice\BocharovaAutoservice\bin\Debug\ru\EntityFramework.resources.dll
+D:\учеба\разработка ПМ\5 лаба\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\App.baml
+D:\учеба\разработка ПМ\5 лаба\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\AddEditPage.baml
+D:\учеба\разработка ПМ\5 лаба\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\MainWindow.baml
+D:\учеба\разработка ПМ\5 лаба\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\ServicePage.baml
+D:\учеба\разработка ПМ\5 лаба\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\BocharovaAutoservice.g.resources
+D:\учеба\разработка ПМ\5 лаба\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\BocharovaAutoservice.Properties.Resources.resources
+D:\учеба\разработка ПМ\5 лаба\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\BocharovaAutoservice.csproj.GenerateResource.cache
+D:\учеба\разработка ПМ\5 лаба\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\BocharovaAutoservice.csproj.CoreCompileInputs.cache
+D:\учеба\разработка ПМ\5 лаба\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\BocharovaAutoservice.csproj.CopyComplete
+D:\учеба\разработка ПМ\6 лаба\BocharovaAutoservice\BocharovaAutoservice\bin\Debug\BocharovaAutoservice.exe.config
+D:\учеба\разработка ПМ\6 лаба\BocharovaAutoservice\BocharovaAutoservice\bin\Debug\BocharovaAutoservice.exe
+D:\учеба\разработка ПМ\6 лаба\BocharovaAutoservice\BocharovaAutoservice\bin\Debug\BocharovaAutoservice.pdb
+D:\учеба\разработка ПМ\6 лаба\BocharovaAutoservice\BocharovaAutoservice\bin\Debug\EntityFramework.dll
+D:\учеба\разработка ПМ\6 лаба\BocharovaAutoservice\BocharovaAutoservice\bin\Debug\EntityFramework.SqlServer.dll
+D:\учеба\разработка ПМ\6 лаба\BocharovaAutoservice\BocharovaAutoservice\bin\Debug\EntityFramework.xml
+D:\учеба\разработка ПМ\6 лаба\BocharovaAutoservice\BocharovaAutoservice\bin\Debug\EntityFramework.SqlServer.xml
+D:\учеба\разработка ПМ\6 лаба\BocharovaAutoservice\BocharovaAutoservice\bin\Debug\ru\EntityFramework.resources.dll
+D:\учеба\разработка ПМ\6 лаба\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\BocharovaAutoservice.csproj.AssemblyReference.cache
+D:\учеба\разработка ПМ\6 лаба\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\AddEditPage.g.cs
+D:\учеба\разработка ПМ\6 лаба\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\MainWindow.g.cs
+D:\учеба\разработка ПМ\6 лаба\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\ServicePage.g.cs
+D:\учеба\разработка ПМ\6 лаба\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\App.g.cs
+D:\учеба\разработка ПМ\6 лаба\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\BocharovaAutoservice_Content.g.cs
+D:\учеба\разработка ПМ\6 лаба\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\BocharovaAutoservice_MarkupCompile.cache
+D:\учеба\разработка ПМ\6 лаба\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\BocharovaAutoservice_MarkupCompile.lref
+D:\учеба\разработка ПМ\6 лаба\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\App.baml
+D:\учеба\разработка ПМ\6 лаба\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\AddEditPage.baml
+D:\учеба\разработка ПМ\6 лаба\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\MainWindow.baml
+D:\учеба\разработка ПМ\6 лаба\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\ServicePage.baml
+D:\учеба\разработка ПМ\6 лаба\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\BocharovaAutoservice.g.resources
+D:\учеба\разработка ПМ\6 лаба\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\BocharovaAutoservice.Properties.Resources.resources
+D:\учеба\разработка ПМ\6 лаба\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\BocharovaAutoservice.csproj.GenerateResource.cache
+D:\учеба\разработка ПМ\6 лаба\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\BocharovaAutoservice.csproj.CoreCompileInputs.cache
+D:\учеба\разработка ПМ\6 лаба\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\BocharovaAutoservice.csproj.CopyComplete
+D:\учеба\разработка ПМ\6 лаба\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\BocharovaAutoservice.exe
+D:\учеба\разработка ПМ\6 лаба\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\BocharovaAutoservice.pdb
+D:\учеба\разработка ПМ\7 лаба\BocharovaAutoservice\BocharovaAutoservice\bin\Debug\BocharovaAutoservice.exe.config
+D:\учеба\разработка ПМ\7 лаба\BocharovaAutoservice\BocharovaAutoservice\bin\Debug\BocharovaAutoservice.exe
+D:\учеба\разработка ПМ\7 лаба\BocharovaAutoservice\BocharovaAutoservice\bin\Debug\BocharovaAutoservice.pdb
+D:\учеба\разработка ПМ\7 лаба\BocharovaAutoservice\BocharovaAutoservice\bin\Debug\EntityFramework.dll
+D:\учеба\разработка ПМ\7 лаба\BocharovaAutoservice\BocharovaAutoservice\bin\Debug\EntityFramework.SqlServer.dll
+D:\учеба\разработка ПМ\7 лаба\BocharovaAutoservice\BocharovaAutoservice\bin\Debug\EntityFramework.xml
+D:\учеба\разработка ПМ\7 лаба\BocharovaAutoservice\BocharovaAutoservice\bin\Debug\EntityFramework.SqlServer.xml
+D:\учеба\разработка ПМ\7 лаба\BocharovaAutoservice\BocharovaAutoservice\bin\Debug\ru\EntityFramework.resources.dll
+D:\учеба\разработка ПМ\7 лаба\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\BocharovaAutoservice.csproj.AssemblyReference.cache
+D:\учеба\разработка ПМ\7 лаба\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\AddEditPage.g.cs
+D:\учеба\разработка ПМ\7 лаба\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\MainWindow.g.cs
+D:\учеба\разработка ПМ\7 лаба\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\ServicePage.g.cs
+D:\учеба\разработка ПМ\7 лаба\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\App.g.cs
+D:\учеба\разработка ПМ\7 лаба\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\BocharovaAutoservice_Content.g.cs
+D:\учеба\разработка ПМ\7 лаба\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\BocharovaAutoservice_MarkupCompile.cache
+D:\учеба\разработка ПМ\7 лаба\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\BocharovaAutoservice_MarkupCompile.lref
+D:\учеба\разработка ПМ\7 лаба\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\App.baml
+D:\учеба\разработка ПМ\7 лаба\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\AddEditPage.baml
+D:\учеба\разработка ПМ\7 лаба\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\MainWindow.baml
+D:\учеба\разработка ПМ\7 лаба\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\ServicePage.baml
+D:\учеба\разработка ПМ\7 лаба\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\BocharovaAutoservice.g.resources
+D:\учеба\разработка ПМ\7 лаба\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\BocharovaAutoservice.Properties.Resources.resources
+D:\учеба\разработка ПМ\7 лаба\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\BocharovaAutoservice.csproj.GenerateResource.cache
+D:\учеба\разработка ПМ\7 лаба\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\BocharovaAutoservice.csproj.CoreCompileInputs.cache
+D:\учеба\разработка ПМ\7 лаба\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\BocharovaAutoservice.csproj.CopyComplete
+D:\учеба\разработка ПМ\7 лаба\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\BocharovaAutoservice.exe
+D:\учеба\разработка ПМ\7 лаба\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\BocharovaAutoservice.pdb
+D:\учеба\разработка ПМ\7\BocharovaAutoservice\BocharovaAutoservice\bin\Debug\BocharovaAutoservice.exe.config
+D:\учеба\разработка ПМ\7\BocharovaAutoservice\BocharovaAutoservice\bin\Debug\BocharovaAutoservice.exe
+D:\учеба\разработка ПМ\7\BocharovaAutoservice\BocharovaAutoservice\bin\Debug\BocharovaAutoservice.pdb
+D:\учеба\разработка ПМ\7\BocharovaAutoservice\BocharovaAutoservice\bin\Debug\EntityFramework.dll
+D:\учеба\разработка ПМ\7\BocharovaAutoservice\BocharovaAutoservice\bin\Debug\EntityFramework.SqlServer.dll
+D:\учеба\разработка ПМ\7\BocharovaAutoservice\BocharovaAutoservice\bin\Debug\EntityFramework.xml
+D:\учеба\разработка ПМ\7\BocharovaAutoservice\BocharovaAutoservice\bin\Debug\EntityFramework.SqlServer.xml
+D:\учеба\разработка ПМ\7\BocharovaAutoservice\BocharovaAutoservice\bin\Debug\ru\EntityFramework.resources.dll
+D:\учеба\разработка ПМ\7\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\BocharovaAutoservice.csproj.AssemblyReference.cache
+D:\учеба\разработка ПМ\7\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\AddEditPage.g.cs
+D:\учеба\разработка ПМ\7\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\MainWindow.g.cs
+D:\учеба\разработка ПМ\7\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\ServicePage.g.cs
+D:\учеба\разработка ПМ\7\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\App.g.cs
+D:\учеба\разработка ПМ\7\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\BocharovaAutoservice_Content.g.cs
+D:\учеба\разработка ПМ\7\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\BocharovaAutoservice_MarkupCompile.cache
+D:\учеба\разработка ПМ\7\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\BocharovaAutoservice_MarkupCompile.lref
+D:\учеба\разработка ПМ\7\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\App.baml
+D:\учеба\разработка ПМ\7\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\AddEditPage.baml
+D:\учеба\разработка ПМ\7\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\MainWindow.baml
+D:\учеба\разработка ПМ\7\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\ServicePage.baml
+D:\учеба\разработка ПМ\7\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\BocharovaAutoservice.g.resources
+D:\учеба\разработка ПМ\7\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\BocharovaAutoservice.Properties.Resources.resources
+D:\учеба\разработка ПМ\7\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\BocharovaAutoservice.csproj.GenerateResource.cache
+D:\учеба\разработка ПМ\7\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\BocharovaAutoservice.csproj.CoreCompileInputs.cache
+D:\учеба\разработка ПМ\7\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\BocharovaAutoservice.csproj.CopyComplete
+D:\учеба\разработка ПМ\7\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\BocharovaAutoservice.exe
+D:\учеба\разработка ПМ\7\BocharovaAutoservice\BocharovaAutoservice\obj\Debug\BocharovaAutoservice.pdb
